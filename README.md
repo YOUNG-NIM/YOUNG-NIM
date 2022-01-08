@@ -4,9 +4,24 @@ And also I'm upload my art work on postype.
 
 
 ## Drawing some arts work
-- dot arts using aesprite and photoshop
-- illust using clip studio and AdobePhotoshop
-- 3D modeling using Umodeler
+- dot arts
+- 2D illust
+- 3D modeling
+
+But I'm not good at modeling. I'm training on it very slowly.)
+
+## Drawing tool is
+- aseprite
+- AdobePhotoshop
+- ClipStudio
+- UModeler
+
+Main tool is aesprite
+I'm trying to use Photoshop. But I'm beginner at Photoshop.
+
+If you click on badge behind this line, You can visit my postype that I upload my artwork. :)
+<a href="https://young-drawbox.postype.com/" target="_blank"><img src="https://img.shields.io/badge/Aseprite-#7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/></a>
+<a href="https://young-drawbox.postype.com/" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-#31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/></a>
 
 <!---
 YOUNG-NIM/YOUNG-NIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
