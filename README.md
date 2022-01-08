@@ -1,6 +1,10 @@
 # Hello  I’m YOUNG(@YOUNG-NIM) 
 I'm using g-mail (this is address : ay57105710@gmail.com )
+
 And also I'm upload my art work on postype.
+
+My mother language is Korean.
+But I can use English and Japanease little bit. :)
 
 
 ## Drawing some arts work
