@@ -6,9 +6,9 @@ I upload my programming log on t-story
 
 ## What I study
 - Static Web Page
-<img src="https://img.shields.io/badge/html5-31A8FF?style=for-the-badge&logo=html5&logoColor=white"/>, <img src="https://img.shields.io/badge/css3-31A8FF?style=for-the-badge&logo=css3&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript-31A8FF?style=for-the-badge&logo=javascript&logoColor=white"/>
-- <img src="https://img.shields.io/badge/php-31A8FF?style=for-the-badge&logo=php&logoColor=white"/>
-- <img src="https://img.shields.io/badge/react-31A8FF?style=for-the-badge&logo=react&logoColor=white"/>, using <img src="https://img.shields.io/badge/nodedotjs-31A8FF?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>, <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>, using <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 
 I can do artwork too. I can use photoshop.
