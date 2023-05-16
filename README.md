@@ -1,27 +1,18 @@
 # Hello  I’m YOUNG(@YOUNG-NIM) 
 I'm using g-mail (this is address : ay57105710@gmail.com )
 
-And also I'm upload my art work on postype.
-
-My mother language is Korean.
-But I can use English and Japanease little bit. :)
+I upload my programming study information on t-story
 
 
-## Drawing some arts work
-- dot arts
-- 2D illust
-- 3D modeling
+## What I study
+- Static Web Page - HTML, CSS, JavaScript
+- PHP
+- React, using Node.js
+- JSP
+- 
 
-But I'm not good at modeling. I'm training on it very slowly.)
-
-## Drawing tool is
-- aseprite
-- AdobePhotoshop
-- ClipStudio
-- UModeler
-
-Main tool is aesprite
-I'm trying to use Photoshop. But I'm beginner at Photoshop.
+I can do artwork too. I can use photoshop.
+Actually some of art on my website, I made it myself
 
 If you click on badge behind this line, You can visit my postype that I upload my artwork. :)
 
