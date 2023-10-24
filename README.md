@@ -29,7 +29,7 @@
 <div>
 <h3>Solving Algoritm</h3>
     
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ay5710)](https://solved.ac/ay5710/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ay5710)](https://solved.ac/ay5710/)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
