@@ -26,6 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ay5710)](https://solved.ac/ay5710)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNGNIM&layout=compact)](https://github.com/YOUNGNIM/github-readme-stats)
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
