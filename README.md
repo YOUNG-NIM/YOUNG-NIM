@@ -34,7 +34,7 @@
 </div>
 
 <div style="background: rgba(255, 0, 0, 0.4); border-radius: 0.8rem; padding-top: 2rem; padding-bottom: 0.5rem">
-<h3>CONTECT ME</h3>
+<h3>📱CONTECT ME📱</h3>
 <hr style="width: 90%;"/>
 
 <a href="https://dramatic-specialist-5fe.notion.site/Developer-5ed4f582ef5f445c86cd50e2f94ef158?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
