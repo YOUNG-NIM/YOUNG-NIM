@@ -23,3 +23,5 @@ If you click on badge behind this line, You can visit my blog that I upload my w
 YOUNG-NIM/YOUNG-NIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ay5710)](https://solved.ac/ay5710)
